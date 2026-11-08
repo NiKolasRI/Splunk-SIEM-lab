@@ -88,7 +88,17 @@ Once the download is complete, open the downloaded file to start the installatio
 
 6. Start Splunk Enterprise.
 
-## 5. Initial Configuration
+# 5. Initial Configuration
+
+After completing the installation and logging in, the Splunk Enterprise interface should look like this:
+
+<img width="2497" height="1297" alt="image" src="https://github.com/user-attachments/assets/e9063c9b-7ade-4c65-96ee-9bf88a9c5b7e" />
+
+If we want to monitor our local system using Splunk, we don't necessarily need to install additional applications.
+
+However, if we want to analyze logs from other systems, simulate security threats, and perform more advanced security investigations, we can set up a virtual machine to create a controlled lab environment.
+
+If you're interested in setting up a virtual machine, you can check out my guide here: [Virtual Machine Setup]().
 
 
 
