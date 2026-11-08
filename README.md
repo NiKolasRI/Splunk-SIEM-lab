@@ -7,7 +7,6 @@ Hands-on Splunk SIEM lab covering installation, configuration, log analysis, SPL
 ![Splunk](https://img.shields.io/badge/SIEM-Splunk-000000?logo=splunk)
 
 
-# 1. Introduction
 
 This project documents my practical experience with Splunk Enterprise, a Security Information and Event Management (SIEM) platform widely used in Security Operations Centers (SOC).
 
