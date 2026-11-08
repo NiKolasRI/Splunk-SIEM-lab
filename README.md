@@ -1,7 +1,7 @@
 🛡️ Splunk-SIEM-lab
 Hands-on Splunk SIEM lab covering installation, configuration, log analysis, SPL queries, threat detection, and security investigations.
 
-1. Introduction
+# 1. Introduction
 # 🛡️ Splunk SIEM Lab – SOC Analyst Portfolio
 
 ![Splunk](https://img.shields.io/badge/SIEM-Splunk-000000?logo=splunk)
