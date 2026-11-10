@@ -143,16 +143,6 @@ Once all these steps have been completed, the collected logs can be viewed and a
 <img width="1479" height="1149" alt="image" src="https://github.com/user-attachments/assets/80fb4a88-7748-47b1-a53f-2f3dd1a0fcc9" />
 
 
-# 7. Analyzing logs
-
-
-Splunk Enterprise offers a wide range of tools for monitoring and analyzing logs. In this section, the main objective is to understand the severity of security events and learn how to classify them based on their potential impact.
-
-
-
-When it comes to analyzing logs from personal computers or systems with no known vulnerabilities, users may observe that most collected events do not indicate significant security threats.
-
-
 
 
 
@@ -177,7 +167,7 @@ When it comes to analyzing logs from personal computers or systems with no known
 
 ## 12. Key Learning Outcomes
 
-Through this project, I aim to develop practical experience in:
+Through this portfolio, I aim to develop practical experience in:
 
 - SIEM administration and configuration.
 - Security log analysis.
