@@ -148,7 +148,7 @@ This section contains hands-on security investigations performed using Splunk En
 
 ### Investigations
   
-1. [Windows Event Log Analysis](SOC-Investigations/01-Windows-Log-Analysis.md) 
+1. [Windows Log Analysis](SOC-Investigations/01-Windows-Log-Analysis.md)
 2. [Failed Login Detection](SOC-Investigations/02-Failed-Login-Detection.md)
 3. [Security Event Analysis](SOC-Investigations/03-Security-Event-Analysis.md)
 
