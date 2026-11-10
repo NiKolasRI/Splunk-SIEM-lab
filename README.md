@@ -43,10 +43,15 @@ The main objectives of this project are:
 | Tool                 |             Purpose             |
 
 | Splunk Enterprise    |  SIEM and log analysis          |
+
 | Windows 11           |  Main operating system          |
+
 | Linux / Ubuntu       |  Linux log analysis             |
+
 | SPL                  |  Search and analysis language   |
+
 | VMware               |  Virtualization environment     |
+
 | Windows Event Logs   |  Security event monitoring      |
 
 # 4. Installation
