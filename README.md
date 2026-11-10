@@ -116,7 +116,7 @@ In this section, we will focus only on the most important and commonly used feat
 
 The first section displayed after logging into the platform is where most activities takes place. All logs and security monitoring appear in this section.
 
-#6. Exploring our first logs.
+# 6. Exploring our first logs.
 
 Our computers perform numerous activities, generating a large number of logs. As SOC Analysts, our job is to collect and analyze these logs to identify relevant security information and detect potential threats.
 
@@ -143,7 +143,7 @@ Once all these steps have been completed, the collected logs can be viewed and a
 <img width="1479" height="1149" alt="image" src="https://github.com/user-attachments/assets/80fb4a88-7748-47b1-a53f-2f3dd1a0fcc9" />
 
 
-#7. Analyzing logs
+# 7. Analyzing logs
 
 
 Splunk Enterprise offers a wide range of tools for monitoring and analyzing logs. In this section, the main objective is to understand the severity of security events and learn how to classify them based on their potential impact.
