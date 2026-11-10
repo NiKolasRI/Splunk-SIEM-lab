@@ -8,8 +8,7 @@ Hands-on Splunk SIEM lab covering installation, configuration, log analysis, SPL
 - [4. Installation](#4-installation)
   - [4.1 Splunk Enterprise Installation](#41-splunk-enterprise-installation)
 - [5. Initial Configuration](#5-initial-configuration)
-  - [5.1 Access the Splunk Web Interface](#51-access-the-splunk-web-interface)
-  - [5.2 Configure Data Ingestion](#52-configure-data-ingestion)
+  
 # 1. Introduction
 # 🛡️ Splunk SIEM Lab – SOC Analyst Portfolio
 
@@ -143,24 +142,15 @@ Once all these steps have been completed, the collected logs can be viewed and a
 <img width="1479" height="1149" alt="image" src="https://github.com/user-attachments/assets/80fb4a88-7748-47b1-a53f-2f3dd1a0fcc9" />
 
 
+# 7. Practical SOC Investigations
 
+This section contains hands-on security investigations performed using Splunk Enterprise. Each investigation includes SPL queries, log analysis, screenshots, findings, and conclusions.
 
+### Investigations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. [Windows Event Log Analysis](SOC-Investigations/01-Windows-Log-Analysis.md)
+2. [Failed Login Detection](SOC-Investigations/02-Failed-Login-Detection.md)
+3. [Security Event Analysis](SOC-Investigations/03-Security-Event-Analysis.md)
 
 
 
