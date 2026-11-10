@@ -100,7 +100,9 @@ However, if we want to analyze logs from other systems, simulate security threat
 
 If you're interested in setting up a virtual machine, you can check out my guide here: [Virtual Machine Setup]().
 
-# 6. Introduction to the Splunk Enterprise:
+
+
+
 <img width="289" height="436" alt="image" src="https://github.com/user-attachments/assets/d0ed9f0a-2cdb-4842-a44f-0fc1c884b776" />
 
 The left sidebar provides access to the main sections of Splunk Enterprise, allowing users to navigate between different tools and functionalities.
@@ -109,7 +111,7 @@ In this section, we will focus only on the most important and commonly used feat
 
 The first section displayed after logging into the platform is where most activities takes place. All logs and security monitoring appear in this section.
 
-#7. Exploring our first logs.
+#6. Exploring our first logs.
 
 Our computers perform numerous activities, generating a large number of logs. As SOC Analysts, our job is to collect and analyze these logs to identify relevant security information and detect potential threats.
 
@@ -136,7 +138,7 @@ Once all these steps have been completed, the collected logs can be viewed and a
 <img width="1479" height="1149" alt="image" src="https://github.com/user-attachments/assets/80fb4a88-7748-47b1-a53f-2f3dd1a0fcc9" />
 
 
-#8. Analyzing logs
+#7. Analyzing logs
 
 
 Splunk Enterprise offers a wide range of tools for monitoring and analyzing logs. In this section, the main objective is to understand the severity of security events and learn how to classify them based on their potential impact.
